@@ -10,7 +10,7 @@ View of all transactions in the market by hash, indicating block location and st
 ![Here](/resources/screen1.png "Transaction Viewer")
 
 ### Hash Viewer
-View individual transaction details 
+View individual transaction details <br/>
 ![Here](/resources/screen2.png "Hash Viewer")
 
 ### Wallet Viewer
